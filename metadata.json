@@ -1,0 +1,8 @@
+{
+  "name": "Memory Orb",
+  "description": "An interactive, particle-based memory visualization tool. Create living memories from photos and diaries, generating unique AI soundscapes and interacting via hand gestures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
